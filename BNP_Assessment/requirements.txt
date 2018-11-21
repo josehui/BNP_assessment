@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+pprint
+bs4
+nltk
+gensim
+matplotlib
+spacy
+openpyxl
